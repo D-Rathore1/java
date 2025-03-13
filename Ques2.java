@@ -4,8 +4,6 @@ import java.lang.*;
 class Money{
  public static void main (String args[]){
      Scanner ip = new Scanner(System.in);
-    // System.out.println("Enter the amount of money : ");
-    // double amt = ip.nextDouble();
      System.out.println("1. Term Deposit");
      System.out.println("2. Recurring Deposit");
      int a = ip.nextInt();
